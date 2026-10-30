@@ -100,4 +100,8 @@ public class BlockingTaskTests extends BaseTest {
 	public void testThatAlwaysFails() {
 		assertTrue(false);
 	}
+	@Test
+	public void testThatAlwaysFails() {
+		assertTrue(false);
+	}
 }
